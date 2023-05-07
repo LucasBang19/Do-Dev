@@ -1,2 +1,4 @@
 Nome: Lucas Bang Gaieski Alfonso
 Idade: 21
+
+Meu nome é Lucas Bang Gaieski, tenho 21 anos, sou natural de Porto alegre RS, mas atualmente trabalho e estudo em Criciúma SC, Faço estágio como dev Ful-stack e estudo ADS.
